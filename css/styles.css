@@ -1,0 +1,20 @@
+.better-mls--carousel-container {
+  background-color: #000;
+}
+
+.better-mls--carousel {
+  width: 1200px;
+  height: 600px;
+  margin: auto;
+}
+
+.better-mls--carousel .inner-slide {
+  display: flex;
+  justify-content: center;
+}
+
+.better-mls--carousel img {
+  height: 600px;
+  /* width: 100% !important; */
+  /* max-width: 1200px; */
+}
